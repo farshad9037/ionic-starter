@@ -1,6 +1,6 @@
-# Baycrest SOS Client
+# Ionic starter
 
-Baycrest SOS client is an Ionic based app.
+Starter for ionic apps
 
 ### Project Setup
   - Install node, bower, ionic, gulp.
