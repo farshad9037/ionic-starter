@@ -4,7 +4,7 @@
   "description": "An Ionic starter project",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/farshad9037/ionic-starter.git"
   },
   "license": "UNLICENSED",
   "dependencies": {
