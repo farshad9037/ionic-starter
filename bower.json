@@ -1,0 +1,13 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+    "ionic": "1.2.4",
+    "ngToast": "ngtoast#1.5.6",
+    "ngstorage": "0.3.10"
+  },
+  "resolutions": {
+    "angular": "1.4.3"
+  }
+}

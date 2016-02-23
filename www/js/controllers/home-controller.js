@@ -1,0 +1,1 @@
+seeMyMachines.controller('homeCtrl', function() {});
